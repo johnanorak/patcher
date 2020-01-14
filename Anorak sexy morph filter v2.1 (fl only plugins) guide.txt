@@ -1,0 +1,39 @@
+ANORAK MORPH FILTER 2.1 
+
+This filter is specifically designed for processing bass (try it on anything tho)
+
+The signal flow also allows for independent control of sub and mid-high balance 
+
+controls
+
+MORPH- Smoothly transitions between the 4 filter states (LP/BP/BS/HP)
+
+MORPH CUTOFF- Controls cutoff frequency of morph filter
+
+BP CUTOFF- controls the cutoff frequency of bandpass filter
+
+BP BANDWIDTH- Width of bandpass shape
+
+BP VOL- amount of bandpass filter in signal chain
+
+OVERDRIVE- Amount of overdrive distortion
+
+X100 PUSH!- X 100 on the overdrive distortion.
+
+SEX DRIVE- increase libidinal desire 
+
+XXX BASS- Amount of sub-signal (100hz and below)
+
+MID/ HIGH- Amount of mid/ high signal (100hz and above)
+
+VERB MIX- Amount of reverb
+
+ROOM SIZE- Size of reverb space
+
+EQ BANDS 1-4- Boost of EQ curve
+
+EQ FREQUENCY 1-4- Frequency of curve
+
+LIMITER- (switch on/off limiter)
+
+MIX- blends wet and dry signal
